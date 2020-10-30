@@ -4,7 +4,7 @@ Amazon Fundamentals Specialization
 The AWS Specialization is a Fundamental AWS Certification offered through Coursera. 
 
 <p align="center">
-<img max-height=200 height=200 src="https://github.com/ciph3rwoman/Crash-Course-in-Python/blob/main/image/python.png"/>
+<img max-height=200 height=200 src="AWS Image/aws.png"/>
 </p>
 
 There are 4 Courses in this Professional Certificate
